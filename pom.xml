@@ -25,7 +25,7 @@
     </dependencies>
 
     <build>
-        <finalname>demo</finalname>
+        <finalName>demo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
